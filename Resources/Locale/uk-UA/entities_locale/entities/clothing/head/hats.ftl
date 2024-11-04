@@ -1,121 +1,122 @@
-ent-ClothingHeadHatBeaverHat = beaver hat
-    .desc = 'Gentlemen?'
+ent-ClothingHeadHatBeaverHat = капелюх із бобра
+    .desc = 'Джентльмене?'
 
-ent-ClothingHeadHatBeret = beret
-    .desc = A beret, an artists favorite headwear.
+ent-ClothingHeadHatBeret = берет
+    .desc = Берет, улюблений головний убір художників.
 
-ent-ClothingHeadHatBeretFrench = French beret
-    .desc = A French beret, "vive la France".
+ent-ClothingHeadHatBeretFrench = французький берет
+    .desc = Французький берет, "vive la France".
 
-ent-ClothingHeadHatBeretSecurity = security beret
-    .desc = A stylish clothing option for security officers.
+ent-ClothingHeadHatBeretSecurity = берет охорони
+    .desc = Стильний вибір офіцерів охорони.
 
-ent-ClothingHeadHatSecurityTrooper = trooper hat
-    .desc = A campaign hat for the Nanotrasen Troopers, comes with a case too, but you lost it.
-ent-ClothingHeadHatCasa = casa
-    .desc = Cone-shaped hat
+ent-ClothingHeadHatSecurityTrooper = капелюх штурмовика
+    .desc = Капелюх штурмовиків Nanotrasen, постачається з чохлом, котрий був успішно загублений тобою.
 
-ent-ClothingHeadHatBeretRND = scientific beret
-    .desc = A beret for real scientists.
+ent-ClothingHeadHatCasa = бриль
+    .desc = Конусоподібний головний убір
 
-ent-ClothingHeadHatBeretEngineering = engineering beret
-    .desc = A beret with the engineering insignia emblazoned on it. For engineers that are more inclined towards style than safety.
+ent-ClothingHeadHatBeretRND = науковий берет
+    .desc = Берет для справжніх учених.
 
-ent-ClothingHeadHatBeretQM = quartermaster's beret
-    .desc = A beret with the cargo's insignia emblazoned on it. For quartermasters that are more inclined towards style.
+ent-ClothingHeadHatBeretEngineering = інженерний берет
+    .desc = Берет із інженерним знаком на ньому. Для інженерів, радше схильних до стилю, ніж до безпеки.
 
-ent-ClothingHeadHatBeretHoS = head of security's beret
-    .desc = A black beret with a commander's rank emblem. For officers that are more inclined towards style than safety.
+ent-ClothingHeadHatBeretQM = берет квартермейстера
+    .desc = Берет із вантажним знаком на ньому. Для квартермейстерів, схильних до стилю.
 
-ent-ClothingHeadHatBeretWarden = warden's beret
-    .desc = A corporate blue beret with a warden's rank emblem. For officers that are more inclined towards style than safety.
+ent-ClothingHeadHatBeretHoS = берет голови охорони
+    .desc = Чорний берет із шевроном командира. Для офіцерів, радше схильних до стилю, ніж до безпеки.
 
-ent-ClothingHeadHatBeretSeniorPhysician = physician beret
-    .desc = Donning the colours of medical and chemistry, physicians are the pride of this department!
+ent-ClothingHeadHatBeretWarden = берет вардена
+    .desc = Корпоративний синій берет із шевроном вардена. Для офіцерів, радше схильних до стилю, ніж до безпеки.
 
-ent-ClothingHeadHatBeretBrigmedic = brigmedical beret
-    .desc = White beret, looks like a cream pie on the head.
+ent-ClothingHeadHatBeretSeniorPhysician = берет фізика
+    .desc = У кольорах медицини та хімії, фізики є гордістю цього відділу!
 
-ent-ClothingHeadHatBeretMerc = mercenary beret
-    .desc = Olive beret, the badge depicts a jackal on a rock.
+ent-ClothingHeadHatBeretBrigmedic = берет бриґмеда
+    .desc = Білий берет, виглядає мов кремовий пиріг на голові.
 
-ent-ClothingHeadHatBowlerHat = bowler hat
-    .desc = Stylish bowler hat.
+ent-ClothingHeadHatBeretMerc = берет наймита
+    .desc = Оливковий берет, шеврон на ньому зображає шакала на камені.
 
-ent-ClothingHeadHatCaptain = captain's hardhat
-    .desc = It's good being the king.
+ent-ClothingHeadHatBowlerHat = котелок
+    .desc = Стильний котелок.
 
-ent-ClothingHeadHatCardborg = cardborg helmet
-    .desc = A hat made out of a box.
+ent-ClothingHeadHatCaptain = каска капітана
+    .desc = Як добре бути королем.
 
-ent-ClothingHeadHatCentcom = CentCom brand hat
-    .desc = It's good to be the emperor.
+ent-ClothingHeadHatCardborg = картонний шолом
+    .desc = Головний убір, зроблений із коробки.
 
-ent-ClothingHeadHatChef = chef's hat
-    .desc = It's a hat used by chefs to keep hair out of your food. Judging by the food in the mess, they don't work.
+ent-ClothingHeadHatCentcom = брендовий капелюх ЦентКому
+    .desc = Як добре бути імператором.
 
-ent-ClothingHeadHatFedoraBrown = brown fedora
-    .desc = It's a brown fedora.
+ent-ClothingHeadHatChef = капелюх кухаря
+    .desc = Капелюх, призначений тримати волосся кухаря від твоєї їжі. Враховуючи вигляд їжі, вони не працюють.
 
-ent-ClothingHeadHatFedoraGrey = grey fedora
-    .desc = It's a grey fedora.
+ent-ClothingHeadHatFedoraBrown = федора
+    .desc = Коричнева федора.
 
-ent-ClothingHeadHatFez = fez
-    .desc = A red fez.
+ent-ClothingHeadHatFedoraGrey = сіра федора
+    .desc = Сіра федора.
 
-ent-ClothingHeadHatHopcap = head of personnel's cap
-    .desc = A grand, stylish head of personnel's cap.
+ent-ClothingHeadHatFez = феска
+    .desc = Червона феска.
 
-ent-ClothingHeadHatHoshat = head of security's hat
-    .desc = There's a new sheriff in station.
+ent-ClothingHeadHatHopcap = кепка голови персоналу
+    .desc = Велична, стильна кепка голови персоналу.
+
+ent-ClothingHeadHatHoshat = капелюх голови охорони
+    .desc = На цій станції зʼявився новий шериф.
 
 ent-ClothingHeadHatOutlawHat = outlaw's hat
     .desc = A hat that makes you look like you carry a notched pistol, numbered one and nineteen more.
 
-ent-ClothingHeadHatWitch1 = witch hat
-    .desc = A witch hat.
+ent-ClothingHeadHatWitch1 = капелюх відьми
+    .desc = Відьомський капелюх.
 
-ent-ClothingHeadHatPaper = paper hat
-    .desc = A hat made of paper.
+ent-ClothingHeadHatPaper = паперовий капелюх
+    .desc = Капелюх із паперу.
 
-ent-ClothingHeadHatPirate = pirate hat
-    .desc = 'Yo ho ho and a bottle of rum!'
+ent-ClothingHeadHatPirate = піратський капелюх
+    .desc = Слобо «ром» та слово «смерть» для Вас означають одне й те саме.
 
-ent-ClothingHeadHatPlaguedoctor = plague doctor hat
-    .desc = These were once used by plague doctors.
+ent-ClothingHeadHatPlaguedoctor = капелюх чумного доктора
+    .desc = Колись використовувалась чумними докторами.
 
-ent-ClothingHeadHatRedwizard = red wizard hat
-    .desc = Strange-looking red hat-wear that most certainly belongs to a real magic user.
+ent-ClothingHeadHatRedwizard = червоний капелюх чаклуна
+    .desc = Дивацький капелюх. Дуже імовірно, належить справжньому чаклунові.
 
-ent-ClothingHeadHatSantahat = santa hat
-    .desc = A festive hat worn by Santa Claus
+ent-ClothingHeadHatSantahat = капелюх санти
+    .desc = Святковий капелюх Санти.
 
-ent-ClothingHeadHatSombrero = sombrero
-    .desc = Perfectly for Space Mexico, si?
+ent-ClothingHeadHatSombrero = сомбреро
+    .desc = Пасує Космічній Мексиці, si?
 
-ent-ClothingHeadHatSurgcapBlue = surgical cap
-    .desc = A blue cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
+ent-ClothingHeadHatSurgcapBlue = медична шапочка
+    .desc = Синя шапочка, котру лікарі вдягають до операцій. Не дозволяє їхньому волоссю лоскотати твої орґани.
 
-ent-ClothingHeadHatSurgcapGreen = surgical cap
-    .desc = A green cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
+ent-ClothingHeadHatSurgcapGreen = медична шапочка
+    .desc = Зелена шапочка, котру лікарі вдягають до операцій. Не дозволяє їхньому волоссю лоскотати твої орґани.
 
-ent-ClothingHeadHatSurgcapPurple = surgical cap
-    .desc = A purple cap surgeons wear during operations. Keeps their hair from tickling your internal organs.
+ent-ClothingHeadHatSurgcapPurple = медична шапочка
+    .desc = Пурпурова шапочка, котру лікарі вдягають до операцій. Не дозволяє їхньому волоссю лоскотати твої орґани.
 
 ent-ClothingHeadHatTophat = tophat
     .desc = A stylish black tophat.
 
-ent-ClothingHeadHatUshanka = ushanka
-    .desc = Perfect for winter in Siberia, da?
+ent-ClothingHeadHatUshanka = ушанка
+    .desc = Знайдена в купі кісток посеред соняшникового поля.
 
-ent-ClothingHeadHatVioletwizard = violet wizard hat
-    .desc = Strange-looking violet hat-wear that most certainly belongs to a real magic user.
+ent-ClothingHeadHatVioletwizard = фіолетовий капелюх чаклуна
+    .desc = Дивацький фіолетовий капелюх. Дуже імовірно, належить справжньому чаклунові.
 
 ent-ClothingHeadHatWarden = warden's cap
     .desc = A police officer's Hat. This hat emphasizes that you are THE LAW
 
-ent-ClothingHeadHatWitch = witch hat
-    .desc = A witch hat.
+ent-ClothingHeadHatWitch = капелюх відьми
+    .desc = Відьомський капелюх.
 
 ent-ClothingHeadHatWizardFake = fake wizard hat
     .desc = It has WIZZARD written across it in sequins. Comes with a cool beard.
@@ -123,8 +124,8 @@ ent-ClothingHeadHatWizardFake = fake wizard hat
 ent-ClothingHeadHatWizardBase = { ent-ClothingHeadBase }
     .desc = { ent-ClothingHeadBase.desc }
 
-ent-ClothingHeadHatWizard = wizard hat
-    .desc = Strange-looking blue hat-wear that most certainly belongs to a powerful magic user.
+ent-ClothingHeadHatWizard = капелюх чаклуна
+    .desc = Дивацький синій капелюх. Дуже імовірно, належить дужому чаклунові.
 
 ent-ClothingHeadHatXmasCrown = xmas crown
     .desc = 'Happy Christmas!'
@@ -168,14 +169,15 @@ ent-ClothingHeadHatJesterAlt = { ent-ClothingHeadHatJester }
 ent-ClothingHeadHatBeretCmo = chief medical officer's beret
     .desc = Turquoise beret with a cross on the front. The sight of it calms you down and makes it clear that you will be cured.
 
-ent-ClothingHeadHatPirateTricord = pirate hat
-    .desc = 'Yo ho ho and a bottle of rum!'
+ent-ClothingHeadHatPirateTricord = піратський капелюх
+    .desc = Слова «смерть» та «ром» для вас означають одне й те саме.
 
 ent-ClothingHeadHatWatermelon = watermelon helmet
     .desc = A carelessly cut half of a watermelon, gutted from the inside, to be worn as a helmet. It can soften the blow to the head.
 
 ent-ClothingHeadHatHolyWatermelon = watermelon halo
     .desc = Holy moly.
+
 ent-ClothingHeadHatSyndie = syndicate hat
     .desc = A souvenir hat from "Syndieland", their production has already been closed.
 
@@ -193,20 +195,23 @@ ent-ClothingHeadHatMagician = magician's top hat.
 
 ent-ClothingHeadHatCapcap = cap cap
     .desc = A grand, stylish captain cap.
+
 ent-ClothingHeadHatCentcomcap = CentCom cap
     .desc = An extravagant, fancy Central Commander cap.
+
 ent-ClothingHeadHatGladiator = gladiator helmet
     .desc = Protects the head from harsh ash winds and toy spears.
-ent-ClothingHeadHatPartyRed = red party hat
-    .desc = Spread a joy!
 
-ent-ClothingHeadHatPartyYellow = yellow party hat
+ent-ClothingHeadHatPartyRed = червоний ковпак
+    .desc = Пошир святковий настрій!
+
+ent-ClothingHeadHatPartyYellow = жовтий ковпак
     .desc = { ent-ClothingHeadHatPartyRed.desc }
 
-ent-ClothingHeadHatPartyGreen = green party hat
+ent-ClothingHeadHatPartyGreen = зелений ковпак
     .desc = { ent-ClothingHeadHatPartyRed.desc }
 
-ent-ClothingHeadHatPartyBlue = blue party hat
+ent-ClothingHeadHatPartyBlue = синій ковпак
     .desc = { ent-ClothingHeadHatPartyRed.desc }
 
 ent-ClothingHeadHatPartyWaterCup = water cup party hat
@@ -218,26 +223,26 @@ ent-ClothingHeadHatGreyFlatcap = grey flatcap
 ent-ClothingHeadHatBrownFlatcap = brown flatcap
     .desc = Stupid clown! You made me look bad!
 
-ent-ClothingHeadHatCowboyBrown = brown cowboy hat
-    .desc = This hat ain't big enough for the both of us.
+ent-ClothingHeadHatCowboyBrown = коричнева ковбойська шляпа
+    .desc = Цей капелюх замалий для нас двох.
 
-ent-ClothingHeadHatCowboyBlack = black cowboy hat
+ent-ClothingHeadHatCowboyBlack = чорна ковбойська шляпа
     .desc = { ent-ClothingHeadHatCowboyBrown.desc }
 
-ent-ClothingHeadHatCowboyGrey = grey cowboy hat
+ent-ClothingHeadHatCowboyGrey = сіра ковбойська шляпа
     .desc = { ent-ClothingHeadHatCowboyBrown.desc }
 
-ent-ClothingHeadHatCowboyRed = red cowboy hat
+ent-ClothingHeadHatCowboyRed = червона ковбойська шляпа
     .desc = { ent-ClothingHeadHatCowboyBrown.desc }
 
-ent-ClothingHeadHatCowboyWhite = white cowboy hat
+ent-ClothingHeadHatCowboyWhite = біла ковбойська шляпа
     .desc = { ent-ClothingHeadHatCowboyBrown.desc }
 
-ent-ClothingHeadHatCowboyBountyHunter = bounty hunter cowboy hat
+ent-ClothingHeadHatCowboyBountyHunter = ковбойська шляпа шукача винагород
     .desc = { ent-ClothingHeadHatCowboyBrown.desc }
 
-ent-ClothingHeadHatStrawHat = straw hat
-    .desc = A fancy hat for hot days! Not recommended to wear near fires.
+ent-ClothingHeadHatStrawHat = соломʼяний капелюх
+    .desc = Гарний капелюх для спекотних днів! Не радиться носити коло вогню.
 
-ent-ClothingHeadHatBeretMedic = medical beret
-    .desc = White beret that encourages you to be clean.
+ent-ClothingHeadHatBeretMedic = медичний берет
+    .desc = Білий берет, що спонукає тебе до чистоти.
