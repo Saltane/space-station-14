@@ -1,51 +1,51 @@
 ent-ClothingUniformJumpsuitColorWhite = білий комбінезон
-    .desc = A generic white jumpsuit with no rank markings.
+    .desc = Звичайний білий комбінезон без шевронів.
 
 ent-ClothingUniformJumpsuitColorGrey = сірий комбінезон
-    .desc = A tasteful grey jumpsuit that reminds you of the good old days.
+    .desc = Сірий комбінезон, що нагадує тобі старі-добрі часи.
 
 ent-ClothingUniformJumpsuitColorBlack = чорний комбінезон
-    .desc = A generic black jumpsuit with no rank markings.
+    .desc = Звичайний чорний комбінезон без шевронів.
 
 ent-ClothingUniformJumpsuitColorBlue = синій комбінезон
-    .desc = A generic blue jumpsuit with no rank markings.
+    .desc = Звичайний синій комбінезон без шевронів.
 
-ent-ClothingUniformJumpsuitColorDarkBlue = темно синій комбінезон
-    .desc = A generic dark blue jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorDarkBlue = темносиній комбінезон
+    .desc = Звичайний темносиній комбінезон без шевронів.
 
 ent-ClothingUniformJumpsuitColorTeal = бірюзовий комбінезон
-    .desc = A generic teal jumpsuit with no rank markings.
+    .desc = Звичайний бірюзовий комбінезон без шевронів.
 
 ent-ClothingUniformJumpsuitColorGreen = зелений комбінезон
-    .desc = A generic green jumpsuit with no rank markings.
+    .desc = Звичайний зелений комбінезон без шевронів.
 
-ent-ClothingUniformJumpsuitColorDarkGreen = темно зелений комбінезон
-    .desc = A generic dark green jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorDarkGreen = темнозелений комбінезон
+    .desc = Звичайний темнозелений комбінезон без шевронів.
 
-ent-ClothingUniformJumpsuitColorOrange = оранжевий комбінезон
-    .desc = Don't wear this near paranoid security officers.
+ent-ClothingUniformJumpsuitColorOrange = помаранчевий комбінезон
+    .desc = Не носи це близь переляканих офіцерів охорони.
 
 ent-ClothingUniformJumpsuitColorPink = рожевий комбінезон
-    .desc = Just looking at this makes you feel <i>fabulous</i>.
+    .desc = Сам лише вигляд цього комбінезону дарує тобі відчуття <i>казковості</i>.
 
 ent-ClothingUniformJumpsuitColorRed = червоний комбінезон
-    .desc = A generic red jumpsuit with no rank markings.
+    .desc = Звичайний червоний комбінезон без шевронів.
 
 ent-ClothingUniformJumpsuitColorYellow = жовтий комбінезон
-    .desc = A generic yellow jumpsuit with no rank markings.
+    .desc = Звичайний жовтий комбінезон без шевронів.
 
-ent-ClothingUniformJumpsuitColorPurple = фіолетовий комбінезон
-    .desc = A generic light purple jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorPurple = пурпуровий комбінезон
+    .desc = Звичайний світлопурпуровий комбінезон без шевронів.
 
-ent-ClothingUniformJumpsuitColorLightBrown = світло коричневий комбінезон
-    .desc = A generic light brown jumpsuit with no rank markings.
+ent-ClothingUniformJumpsuitColorLightBrown = світлокоричневий комбінезон
+    .desc = Звичайний світлокоричневий комбінезон без шевронів.
 
 ent-ClothingUniformJumpsuitColorBrown = коричневий комбінезон
-    .desc = A generic brown jumpsuit with no rank markings.
+    .desc = Звичайний коричневий комбінезон без шевронів.
 
 ent-ClothingUniformJumpsuitColorMaroon = бордовий комбінезон
-    .desc = A generic maroon jumpsuit with no rank markings.
+    .desc = Звичайний темнобордовий комбінезон без шевронів.
 
 ent-ClothingUniformColorRainbow = веселковий комбінезон
-    .desc = A multi-colored jumpsuit!
+    .desc = Різнобарвний комбінезон!
 

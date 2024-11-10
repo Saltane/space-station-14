@@ -1,24 +1,24 @@
-ent-ClothingUniformJumpsuitRecruitNT = recruit jumpsuit
-    .desc = A classy grey jumpsuit with blue trims. Perfect for the dignified helper.
+ent-ClothingUniformJumpsuitRecruitNT = комбінезон новобранця
+    .desc = Вишуканий сірий комбінезон із синім оздобленням. Пасує гордовитому помічникові.
 
-ent-ClothingUniformJumpsuitRecruitSyndie = syndicate recuit jumpsuit
-    .desc = A dubious,, dark-grey jumpsuit. As if passengers weren't dubious enough already.
+ent-ClothingUniformJumpsuitRecruitSyndie = комбінезон новобранця синдикату
+    .desc = Сумнівний, темносірий комбінезон. Ніби пасажири були в недостатніх сумнівах.
 
-ent-ClothingUniformJumpsuitRepairmanNT = repairman jumpsuit
-    .desc = A jumpsuit that reminds you of a certain crew-sector work position. Hopefully, you won't have to do the same job as THOSE freaks.
+ent-ClothingUniformJumpsuitRepairmanNT = комбінезон реммайстра
+    .desc = Комбінезон, котрий нагадує тобі певну професію на кораблі. Ти сподіваєшся, що тобі не доведеться робити ту ж роботу, що й ці диваки.
 
-ent-ClothingUniformJumpsuitRepairmanSyndie = syndicate repairman jumpsuit
-    .desc = Functional, fashionable, and badass. Nanotrasen's engineers wish they could look as good as this.
+ent-ClothingUniformJumpsuitRepairmanSyndie = комбінезон реммайстра синдикату
+    .desc = Практичний, модний, та крутий. Інженери Nanotrasen мріють виглядати так само добре, як цей комбінезон.
 
-ent-ClothingUniformJumpsuitParamedicNT = paramedic jumpsuit
-    .desc = A basic white & blue jumpsuit made for Nanotrasen paramedics stationed in combat sectors.
+ent-ClothingUniformJumpsuitParamedicNT = комбінезон парамедика
+    .desc = Простий біло-синій комбінезон, призначений парамедикам на бойових відтинках.
 
-ent-ClothingUniformJumpsuitParamedicSyndie = syndicate paramedic jumpsuit
-    .desc = For some reason, wearing this makes you feel like you're awfully close to violating the Geneva Convention.
+ent-ClothingUniformJumpsuitParamedicSyndie = комбінезон парамедика синдикату
+    .desc = З якоїсь причини, ти почуваєшся надзвичайно близько до порушення Женевської Конвенції, коли носиш це.
 
-ent-ClothingUniformJumpsuitChiefEngineerNT = chief engineer jumpsuit
-    .desc = It is often joked that the role of the combat-sector Chief Engineer is where the actual, logistically-minded engineers are promoted to. Good luck.
+ent-ClothingUniformJumpsuitChiefEngineerNT = комбінезон старшого інженера
+    .desc = Ходить жарт, що роль старшого інженера на передовій це те, до чого підвищують справді логістично-вправних інженерів. Успіхів.
 
-ent-ClothingUniformJumpsuitChiefEngineerSyndie = syndicate chief engineer jumpsuit
-    .desc = An evil-looking jumpsuit with a reflective vest & red undershirt.
+ent-ClothingUniformJumpsuitChiefEngineerSyndie = комбінезон старшого інженера синдикату
+    .desc = Зловісний комбінезон із світловідбивним жилетом і червоною курткою
 

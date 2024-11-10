@@ -1,48 +1,48 @@
 ent-ClothingUniformJumpskirtColorWhite = біла спідниця-комбінезон
-    .desc = A generic white jumpskirt with no rank markings.
+    .desc = Звичайна біла спідниця-комбінезон без шевронів.
 
 ent-ClothingUniformJumpskirtColorGrey = сіра спідниця-комбінезон
-    .desc = A tasteful grey jumpskirt that reminds you of the good old days.
+    .desc = Сіра спідниця-комбінезон, що нагадує тобі старі-добрі часи.
 
 ent-ClothingUniformJumpskirtColorBlack = чорна спідниця-комбінезон
-    .desc = A generic black jumpskirt with no rank markings.
+    .desc = Звичайна чорна спідниця-комбінезон без шевронів.
 
 ent-ClothingUniformJumpskirtColorBlue = синя спідниця-комбінезон
-    .desc = A generic blue jumpskirt with no rank markings.
+    .desc = Звичайна синя спідниця-комбінезон без шевронів.
 
-ent-ClothingUniformJumpskirtColorDarkBlue = темно-синя спідниця-комбінезон
-    .desc = A generic dark blue jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorDarkBlue = темносиня спідниця-комбінезон
+    .desc = Звичайна темносиня спідниця-комбінезон без шевронів.
 
 ent-ClothingUniformJumpskirtColorTeal = бірюзова спідниця-комбінезон
-    .desc = A generic teal jumpskirt with no rank markings.
+    .desc = Звичайна бірюзова спідниця-комбінезон без шевронів.
 
 ent-ClothingUniformJumpskirtColorGreen = зелена спідниця-комбінезон
-    .desc = A generic green jumpskirt with no rank markings.
+    .desc = Звичайна зелена спідниця-комбінезон без шевронів.
 
-ent-ClothingUniformJumpskirtColorDarkGreen = темно зелена спідниця-комбінезон
-    .desc = A generic dark green jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorDarkGreen = темнозелена спідниця-комбінезон
+    .desc = Звичайна темнозелена спідниця-комбінезон без шевронів.
 
-ent-ClothingUniformJumpskirtColorOrange = оранжева спідниця-комбінезон
-    .desc = Don't wear this near paranoid security officers.
+ent-ClothingUniformJumpskirtColorOrange = помаранчева спідниця-комбінезон
+    .desc = Не носи це близь переляканих офіцерів охорони.
 
 ent-ClothingUniformJumpskirtColorPink = рожева спідниця-комбінезон
-    .desc = Just looking at this makes you feel <i>fabulous</i>.
+    .desc = Сам лише вигляд цієї спідниці дарує тобі відчуття <i>казковості</i>.
 
 ent-ClothingUniformJumpskirtColorRed = червона спідниця-комбінезон
-    .desc = A generic red jumpskirt with no rank markings.
+    .desc = Звичайна червона спідниця-комбінезон без шевронів.
 
 ent-ClothingUniformJumpskirtColorYellow = жовта спідниця-комбінезон
-    .desc = A generic yellow jumpskirt with no rank markings.
+    .desc = Звичайна жовта спідниця-комбінезон без шевронів.
 
-ent-ClothingUniformJumpskirtColorPurple = фіолетова спідниця-комбінезон
-    .desc = A generic light purple jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorPurple = пурпурова спідниця-комбінезон
+    .desc = Звичайна пурпурова спідниця-комбінезон без шевронів.
 
-ent-ClothingUniformJumpskirtColorLightBrown = світло коричнева спідниця-комбінезон
-    .desc = A generic light brown jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorLightBrown = світлокоричнева спідниця-комбінезон
+    .desc = Звичайна світлокоричнева спідниця-комбінезон без шевронів.
 
 ent-ClothingUniformJumpskirtColorBrown = коричнева спідниця-комбінезон
-    .desc = A generic brown jumpskirt with no rank markings.
+    .desc = Звичайна коричнева спідниця-комбінезон без шевронів.
 
-ent-ClothingUniformJumpskirtColorMaroon = бордова спідниця-комбінезон
-    .desc = A generic maroon jumpskirt with no rank markings.
+ent-ClothingUniformJumpskirtColorMaroon = темнобордова спідниця-комбінезон
+    .desc = Звичайна темнобордова спідниця-комбінезон без шевронів.
 
