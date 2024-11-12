@@ -1,18 +1,18 @@
-ent-ClothingOuterHardsuitEVA = EVA suit
-    .desc = A lightweight space suit with the basic ability to protect the wearer from the vacuum of space during emergencies.
+ent-ClothingOuterHardsuitEVA = костюм ПКД
+    .desc = Легкий скафандр, котрий надає базовий захист носія від космічного вакууму за надзвичайних ситуацій.
 
-ent-ClothingOuterHardsuitSyndicate = syndicate EVA suit
-    .desc = Has a tag on the back that reads: 'Totally not property of an enemy corporation, honest!'
+ent-ClothingOuterHardsuitSyndicate = костюм ПКД синдикату
+    .desc = Бірка ззаду зазначає: «Точно не власність ворожої корпорації, чесно!»
 
-ent-ClothingOuterSuitEmergency = emergency EVA suit
-    .desc = An emergency EVA suit with a built-in helmet. It's horribly slow and lacking in temperature protection, but enough to bide you time from the harsh vaccuum of space.
+ent-ClothingOuterSuitEmergency = костюм ПКД для надзвичайних ситуацій
+    .desc = Костюм ПКД із вбудованим шоломом. До жаху повільний та має недостатній термозахист, але цього достатньо, аби дати тобі трохи часу в суворих умовах вакууму.
 
-ent-ClothingOuterHardsuitEVAPrisoner = prisoner EVA suit
-    .desc = A lightweight space suit for prisoners to protect them from the vacuum of space during emergencies.
+ent-ClothingOuterHardsuitEVAPrisoner = костюм ПКД вʼязня
+    .desc = Легкий скафандр для вʼязнів. Захищає їх від вакууму в випадку надзвичайної ситуації.
 
-ent-ClothingOuterHardsuitAncientEVA = NTSRA voidsuit
-    .desc = An ancient space suit, designed by the NTSRA branch of CentCom. It is very finely crafted, allowing for greater mobility than most modern space suits.
+ent-ClothingOuterHardsuitAncientEVA = пустотний костюм NTSRA
+    .desc = Давній космічний костюм, розроблений гілкою NTSRA ЦентКому. Дуже точна збірка дозволяє більшу рухливість, ніж більшість сучасних космічних костюмів.
 
-ent-ClothingOuterHardsuitVoidParamed = paramedic void suit
-    .desc = A void suit made for paramedics.
+ent-ClothingOuterHardsuitVoidParamed = пустотний костюм парамедика
+    .desc = Пустотний костюм для парамедиків.
 

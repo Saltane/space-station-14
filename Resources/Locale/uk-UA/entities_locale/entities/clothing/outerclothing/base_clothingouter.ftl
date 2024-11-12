@@ -12,18 +12,18 @@ ent-ClothingOuterStorageFoldableBase = { ent-ClothingOuterStorageBase }
 
 ent-ClothingOuterStorageFoldableBaseOpened = { ent-ClothingOuterStorageFoldableBase }
     .desc = { ent-ClothingOuterStorageFoldableBase.desc }
-    .suffix = opened
+    .suffix = відкрите
 
 ent-ClothingOuterStorageToggleableBase = { ent-ClothingOuterStorageBase }
     .desc = { ent-ClothingOuterStorageBase.desc }
 
-ent-ClothingOuterHardsuitBase = base hardsuit
+ent-ClothingOuterHardsuitBase = основний захисний костюм
     .desc = { ent-ClothingOuterBase.desc }
 
-ent-ClothingOuterEVASuitBase = base EVA Suit
+ent-ClothingOuterEVASuitBase = основний костюм ПКД
     .desc = { ent-ClothingOuterBase.desc }
 
-ent-ClothingOuterBaseToggleable = hoodie with hood
+ent-ClothingOuterBaseToggleable = гуді з каптуром
     .desc = { ent-ClothingOuterBase.desc }
 
 ent-ClothingOuterBaseMedium = { ent-ClothingOuterBase }

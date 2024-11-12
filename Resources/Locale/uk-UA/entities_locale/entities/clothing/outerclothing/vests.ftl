@@ -1,17 +1,17 @@
-ent-ClothingOuterVestWeb = web vest
-    .desc = A synthetic armor vest. This one has added webbing and ballistic plates.
+ent-ClothingOuterVestWeb = розвантажний бронежилет
+    .desc = Синтетичний бронежилет. Цей має додаткові розвантажні пояси та бронепластини.
 
-ent-ClothingOuterVestWebMerc = merc web vest
-    .desc = A high-quality armored vest made from a hard synthetic material. It's surprisingly flexible and light, despite formidable armor plating.
+ent-ClothingOuterVestWebMerc = бронежилет наймита
+    .desc = Високоякісний бронежилет із жорсткого синтетичного матеріалу. На диво гнучкий та легкий, попри значний бронезахист.
 
-ent-ClothingOuterVestDetective = detective's vest
-    .desc = A hard-boiled private investigator's armored vest.
+ent-ClothingOuterVestDetective = бронежилет детектива
+    .desc = Бронежилет затятого детектива.
 
-ent-ClothingOuterVestHazard = hi-viz vest
-    .desc = A high-visibility vest used in work zones.
+ent-ClothingOuterVestHazard = сиґнальний бронежилет
+    .desc = Світловідбивний бронежилет для роботи в будівельних зонах.
 
-ent-ClothingOuterVest = vest
-    .desc = A thick vest with a rubbery, water-resistant shell.
+ent-ClothingOuterVest = бронежилет
+    .desc = Товстий бронежилет із гумовою водонепроникною оболонкою.
 
-ent-ClothingOuterVestTank = tank harness
-    .desc = A simple harness that can hold a gas tank.
+ent-ClothingOuterVestTank = балоновий тримач
+    .desc = Простий каркас, здатний тримати газовий балон.

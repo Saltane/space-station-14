@@ -1,24 +1,24 @@
-ent-ClothingOuterBioGeneral = bio suit
-    .desc = A suit that protects against biological contamination.
-    .suffix = Generic
+ent-ClothingOuterBioGeneral = біокомбінезон
+    .desc = Комбінезон, котрий захищає від біологічних забрудників.
+    .suffix = Звичайний
 
-ent-ClothingOuterBioCmo = bio suit
-    .desc = An advanced suit that protects against biological contamination, in CMO colors.
-    .suffix = CMO
+ent-ClothingOuterBioCmo = біокомбінезон
+    .desc = Просунутий комбінезон, котрий захищає від біологічних забрудників, у кольорах СМО.
+    .suffix = СМО
 
-ent-ClothingOuterBioJanitor = bio suit
-    .desc = A suit that protects against biological contamination, in Janitor colors.
-    .suffix = Janitor
+ent-ClothingOuterBioJanitor = біокомбінезон
+    .desc = Комбінезон, котрий захищає від біологічних забрудників, у кольорах прибиральника.
+    .suffix = Прибиральний
 
-ent-ClothingOuterBioScientist = bio suit
-    .desc = A suit that protects against biological contamination, in Scientist colors.
-    .suffix = Science
+ent-ClothingOuterBioScientist = біокомбінезон
+    .desc = Комбінезон, котрий захищає від біологічних забрудників, у кольорах наукового відділу.
+    .suffix = Науковий
 
-ent-ClothingOuterBioSecurity = bio suit
-    .desc = A suit that protects against biological contamination, in Security colors.
-    .suffix = Security
+ent-ClothingOuterBioSecurity = біокомбінезон
+    .desc = Комбінезон, котрий захищає від біологічних забрудників, у кольорах охорони.
+    .suffix = Охоронний
 
-ent-ClothingOuterBioVirology = bio suit
-    .desc = A suit that protects against biological contamination, in Virology colors.
-    .suffix = Virology
+ent-ClothingOuterBioVirology = біокомбінезон
+    .desc = Комбінезон, котрий захищає від біологічних забрудників, у кольорах відділу вірусології.
+    .suffix = Вірусологічний
 

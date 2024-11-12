@@ -1,140 +1,140 @@
-ent-ClothingOuterWinterCoat = winter coat
-    .desc = A heavy jacket made from 'synthetic' animal furs.
+ent-ClothingOuterWinterCoat = зимове пальто
+    .desc = Важка куртка із «синтетичних» тваринних хутр.
 
-ent-ClothingOuterWinterCoatToggleable = winter coat with hood
+ent-ClothingOuterWinterCoatToggleable = зимове пальто з каптуром
     .desc = { ent-ClothingOuterWinterCoat.desc }
 
-ent-ClothingOuterWinterAtmos = atmospherics winter coat
+ent-ClothingOuterWinterAtmos = зимове пальто атмосу
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterBar = bartender winter coat
+ent-ClothingOuterWinterBar = зимове пальто бармена
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterCap = captain's winter coat
+ent-ClothingOuterWinterCap = зимове пальто капітана
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterCargo = cargo winter coat
+ent-ClothingOuterWinterCargo = зимове пальто вантажника
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterCE = chief engineer's winter coat
+ent-ClothingOuterWinterCE = зимове пальто старшого інженера
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterCentcom = CentCom winter coat
+ent-ClothingOuterWinterCentcom = зимове пальто ЦентКому
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterChef = chef's freezer coat
-    .desc = A coat specifically designed for work inside cold storage, sorely needed by cold-blooded lizard chefs.
+ent-ClothingOuterWinterChef = шефове морозильне пальто
+    .desc = Пальто, призначене для роботи всередині холодних сховищ. Конче необхідно холоднокровним шефам-ящурам.
 
-ent-ClothingOuterWinterChem = chemistry winter coat
+ent-ClothingOuterWinterChem = зимове пальто хіміка
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterCMO = chief medical officer's winter coat
+ent-ClothingOuterWinterCMO = зимове пальто старшого медофіцера
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterClown = clown winter coat
+ent-ClothingOuterWinterClown = зимове пальто клоуна
     .desc = { ent-ClothingOuterWinterCoat.desc }
 
-ent-ClothingOuterWinterEngi = engineering winter coat
+ent-ClothingOuterWinterEngi = зимове пальто інженера
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterGen = genetics winter coat
+ent-ClothingOuterWinterGen = зимове пальто ґенетика
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterHoP = head of personnel's winter coat
+ent-ClothingOuterWinterHoP = зимове пальто голови персоналу
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterHoS = head of security's winter coat
+ent-ClothingOuterWinterHoS = зимове пальто голови охорони
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterHoSUnarmored = head of security's winter coat
-    .desc = A sturdy coat, a warm coat, but not an armored coat.
+ent-ClothingOuterWinterHoSUnarmored = зимове пальто голови охорони
+    .desc = Міцне пальто, тепле пальто, та аж ніяк не броньоване пальто.
 
-ent-ClothingOuterWinterHydro = hydroponics winter coat
+ent-ClothingOuterWinterHydro = зимове пальто відділу гідропоніки
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterJani = janitorial winter coat
+ent-ClothingOuterWinterJani = зимове пальто прибиральника
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterMed = medical winter coat
+ent-ClothingOuterWinterMed = зимове пальто лікаря
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterMime = mime winter coat
+ent-ClothingOuterWinterMime = зимове пальто міма
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterMiner = mining winter coat
+ent-ClothingOuterWinterMiner = зимове пальто шахтаря
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterPara = paramedic winter coat
+ent-ClothingOuterWinterPara = зимове пальто парамедика
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterQM = quartermaster's winter coat
+ent-ClothingOuterWinterQM = зимове пальто квартермейстра
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterRD = research director's winter coat
+ent-ClothingOuterWinterRD = зимове пальто голови відділу досліджень
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterRobo = robotics winter coat
+ent-ClothingOuterWinterRobo = зимове пальто роботиста
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterSci = science winter coat
+ent-ClothingOuterWinterSci = зимове пальто науковця
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterSec = security winter coat
+ent-ClothingOuterWinterSec = зимове пальто охорони
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterViro = virology winter coat
+ent-ClothingOuterWinterViro = зимове пальто вірусолоґа
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterWarden = warden's armored winter coat
-    .desc = A sturdy, utilitarian winter coat designed to protect a warden from any brig-bound threats and hypothermic events.
+ent-ClothingOuterWinterWarden = зимове бронепальто вардена
+    .desc = Міцне, практичне зимове пальто, створене захистити вардена від будь-яких загроз та гіпотермічних подій.
 
-ent-ClothingOuterWinterWardenUnarmored = warden's winter coat
-    .desc = A sturdy coat, a warm coat, but not an armored coat.
+ent-ClothingOuterWinterWardenUnarmored = зимове пальто вардена
+    .desc = Міцне пальто, тепле пальто, та аж ніяк не броньоване пальто.
 
-ent-ClothingOuterWinterSyndieCap = syndicate's winter coat
-    .desc = The syndicate's winter coat is made of durable fabric, with gilded patterns, and coarse wool.
+ent-ClothingOuterWinterSyndieCap = зимове пальто синдикату
+    .desc = Синдикатське зимове пальто, зроблене з міцної тканини, із вишитими візерунками та грубою шерстю.
 
-ent-ClothingOuterWinterSyndieCapArmored = syndicate's armored winter coat
-    .desc = The syndicate's armored winter coat is made of durable fabric, with gilded patterns, and coarse wool.
+ent-ClothingOuterWinterSyndieCapArmored = зимове бронепальто синдикату
+    .desc = Синдикатське зимове бронепальто, зроблене з міцної тканини, із вишитими візерунками та грубою шерстю.
 
-ent-ClothingOuterWinterSyndie = syndicate's winter coat
-    .desc = Insulated winter coat, looks like a merch from "Syndieland"
+ent-ClothingOuterWinterSyndie = зимове пальто синдикату
+    .desc = Утеплене зимове пальто. Виглядає, мов мерч із «Синділенду».
 
-ent-ClothingOuterWinterMusician = musician's winter coat
-    .desc = An oversized, plasticine space tuxedo that'll have people asking "do you know me?"
+ent-ClothingOuterWinterMusician = зимове пальто музиканта
+    .desc = Завеликий пластиліновий космічний смокінґ, котрий змусить людей питати «чи знаєш ти мене?»
 
-ent-ClothingOuterWinterWeb = web winter coat
-    .desc = Feels like the inside of a cocoon, not that this would make you less afraid of being in one.
+ent-ClothingOuterWinterWeb = зимове пальто з павутини
+    .desc = Відчуття, мов усередині кокону. Не надає тобі сміливості потрапити в один із них.
 
-ent-ClothingOuterWinterColorBlack = black winter coat
+ent-ClothingOuterWinterColorBlack = чорне зимове пальто
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorPurple = purple winter coat
+ent-ClothingOuterWinterColorPurple = пурпурове зимове пальто
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorRed = red winter coat
+ent-ClothingOuterWinterColorRed = червоне зимове пальто
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorBlue = blue winter coat
+ent-ClothingOuterWinterColorBlue = синє зимове пальто
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorBrown = brown winter coat
+ent-ClothingOuterWinterColorBrown = коричневе зимове пальто
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorGray = gray winter coat
+ent-ClothingOuterWinterColorGray = сіре зимове пальто
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorGreen = green winter coat
+ent-ClothingOuterWinterColorGreen = зелене зимове пальто
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorLightBrown = light brown winter coat
+ent-ClothingOuterWinterColorLightBrown = світлокоричневе зимове пальто
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorOrange = orange winter coat
+ent-ClothingOuterWinterColorOrange = помаранчеве зимове пальто
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorWhite = white winter coat
+ent-ClothingOuterWinterColorWhite = біле зимове пальто
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }
 
-ent-ClothingOuterWinterColorYellow = yellow winter coat
+ent-ClothingOuterWinterColorYellow = жовте зимове пальто
     .desc = { ent-ClothingOuterWinterCoatToggleable.desc }

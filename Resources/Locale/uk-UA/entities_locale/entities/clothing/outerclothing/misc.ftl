@@ -1,67 +1,67 @@
-ent-ClothingOuterApron = apron
-    .desc = A fancy apron for a stylish person.
+ent-ClothingOuterApron = передник
+    .desc = Вигадливий передник для стильних осіб.
 
-ent-ClothingOuterApronBar = apron
-    .desc = A darker apron designed for bartenders.
-    .suffix = Bartender
+ent-ClothingOuterApronBar = передник
+    .desc = Темніший передник для барменів.
+    .suffix = Барменський
 
-ent-ClothingOuterApronBotanist = apron
-    .desc = A thick blue-apron, perfect for insulating your soft flesh from spills, soil and thorns.
-    .suffix = Botanical
+ent-ClothingOuterApronBotanist = передник
+    .desc = Товстий синій передник, годиться для розмежування твоєї мʼякої плоті від розлитих рідин, ґрунту та колючок.
+    .suffix = Ботанічний
 
-ent-ClothingOuterApronChef = apron
-    .desc = An apron-jacket used by a high class chef.
-    .suffix = Chef
+ent-ClothingOuterApronChef = передник
+    .desc = Передник-жилет висококласного шефа.
+    .suffix = Шефський
 
-ent-ClothingOuterJacketChef = chef jacket
-    .desc = An apron-jacket used by a high class chef.
+ent-ClothingOuterJacketChef = куртка шефа
+    .desc = Передник-жилет висококласного шефа.
 
-ent-ClothingOuterHoodieBlack = black hoodie
-    .desc = Oh my God, it's a black hoodie!
+ent-ClothingOuterHoodieBlack = чорний гуді
+    .desc = Боже, це ж чорний гуді!
 
-ent-ClothingOuterHoodieGrey = grey hoodie
-    .desc = A grey hoodie.
+ent-ClothingOuterHoodieGrey = сірий гуді
+    .desc = Сірий гуді.
 
-ent-ClothingOuterCardborg = cardborg costume
-    .desc = An ordinary cardboard box with holes cut in the sides.
+ent-ClothingOuterCardborg = картонний костюм
+    .desc = Звичайна картонна коробка із отворами з обох боків.
 
-ent-ClothingOuterHoodieChaplain = chaplain's hoodie
-    .desc = Black and strict chaplain hoodie.
+ent-ClothingOuterHoodieChaplain = гуді капелана
+    .desc = Чорний стриманий гуді капелана.
 
-ent-ClothingOuterPonchoClassic = classic poncho
-    .desc = A warm and comfy classic poncho.
+ent-ClothingOuterPonchoClassic = класичний пончо
+    .desc = Теплий та зручний класичний пончо.
 
-ent-ClothingOuterRobesCult = cult robes
-    .desc = There's no cult without classic red/crimson cult robes.
+ent-ClothingOuterRobesCult = роба культу
+    .desc = Немає культу без класичної червоної/багряної роби.
 
-ent-ClothingOuterRobesJudge = judge robes
+ent-ClothingOuterRobesJudge = роба судді
     .desc = This robe commands authority.
 
-ent-ClothingOuterPoncho = poncho
+ent-ClothingOuterPoncho = пончо
     .desc = A warm and comfy poncho.
 
-ent-ClothingOuterSanta = santa suit
+ent-ClothingOuterSanta = костюм санти
     .desc = Ho ho ho!
 
 ent-ClothingOuterWizardBase = { ent-ClothingOuterBase }
     .desc = { ent-ClothingOuterBase.desc }
 
-ent-ClothingOuterWizardViolet = violet wizard robes
+ent-ClothingOuterWizardViolet = фіолетова роба чаклуна
     .desc = A bizarre gem-encrusted violet robe that radiates magical energies.
 
-ent-ClothingOuterWizard = wizard robes
+ent-ClothingOuterWizard = роба чаклуна
     .desc = A bizarre gem-encrusted blue robe that radiates magical energies.
 
-ent-ClothingOuterWizardRed = red wizard robes
+ent-ClothingOuterWizardRed = червона роба чаклуна
     .desc = Strange-looking, red, hat-wear that most certainly belongs to a real magic user.
 
 ent-ClothingOuterSkub = skub suit
     .desc = 'Skub is crudely written on the outside of this cylindrical suit.'
 
-ent-ClothingOuterPlagueSuit = plague doctor suit
-    .desc = A bad omen.
+ent-ClothingOuterPlagueSuit = плащ чумного лікаря
+    .desc = Погана прикмета.
 
-ent-ClothingOuterNunRobe = nun robe
+ent-ClothingOuterNunRobe = роба черниці
     .desc = Maximum piety in this star system.
 
 ent-ClothingOuterGhostSheet = ghost sheet
@@ -79,6 +79,6 @@ ent-ClothingOuterFlannelBlue = blue flannel jacket
 ent-ClothingOuterFlannelGreen = green flannel jacket
     .desc = An old fashioned green flannel jacket for space autumn.
 
-ent-ClothingOuterRedRacoon = red racoon suit
-    .desc = Fluffy suit of red racoon!
+ent-ClothingOuterRedRacoon = костюм червоного єнота
+    .desc = Пухнастий костюм червоного єнота!
 
